@@ -1,0 +1,1 @@
+export { TrucksList } from "./TrucksList";
